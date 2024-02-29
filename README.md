@@ -34,25 +34,35 @@ column before                     | column After
 Shows the category column: during review it was discovered that in the category column we had footwear and foot wear using the filter option. We had to use the replace functionality to correct the error. Column before and after.
 column before                     | column After 
 :--------------------------------:|:-----------------------------:
-   ![](category_dirty.PNG)        | ![](customer_id_cleaned.PNG)
+   ![](category_wrong.PNG)                          | ![](category_correct.PNG)
 
 **Table 3:** 
 
 Shows the color column, during review it was discovered that in the color column we had blank cell wear using the filter option. We had to use the “Not available” to replace the blank cells. Column before and after.
 column before                     | column After                                        
 :--------------------------------:|:----------------------------------:
+![](color_bank.PNG)               |![](color_leaned.PNG)
+                     
+ 
+**the second table depicts the changes made to the spelling in the column**
 
-   column before                   |          column After 
- :--------------------------------:| :--------------------------------:
-                                         |
+      column before               |   column After  
+ :-------------------------------:| :--------------------------------:
+    ![](Color_wrong_spelling.PNG) |![](color_right_spelling.PNG)
+
+    
 **Table 4:**
 
 Shows the color column, it was discovered that in the Age column two outliers were found using the filter option. Age column before and after.
 column before                     | column After 
 :--------------------------------:|:-----------------------------:
-   ![](customer_id_dirty.PNG)     | ![](customer_id_cleaned.PNG)
+   ![](Age_wrong_outlier.PNG)     | ![](Age_correct.PNG)
 
 **Table 5:**
+
+column before                     | column After 
+:--------------------------------:|:-----------------------------:
+   ![](purchased_amount_wrong.PNG)| ![](purchase_amount_right.PNG)
 
 Shows the Purchased amount column, it was discovered that in the purchased amount column was wrong formatted as general value, I had to use the currency format with two decimal places. Purchase amount before and after.
 ## DATA MODELLING
@@ -62,7 +72,8 @@ The data was cleaned using excel, checked for duplicates all unnecessary columns
 **Figure1:** shows a screen shot of the descriptive analysis carried out
 
 **descriptive analysis screenshot**
---image here
+
+![](descriptive_analysis.PNG)
 
 **Finding 1:**
 
@@ -77,20 +88,26 @@ The minimum purchased item cost was $20. However, we further categorize the mini
 
 **Finding 2:**
 
-**figure 1:** we had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
+**figure 1:** 
 
-     table                         |          chart
- :--------------------------------:| :--------------------------------:
-                                   |
+we had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
+
+
+     table  
+     ![](product_performance_table.PNG)     
+     chart
+     ![](product_performance_chart.PNG)
+  
 
 
 **Findings 3:** 
 
 The screenshot and the chart show the findings, it was discovered that customers preference was the olive color, which ranked as highest from other colors with 176 colors demanded. Silver and yellow ranked second and third respectively with a total of 173 and 172 based on demand
 
-    table                          |         chart 
- :--------------------------------:| :--------------------------------:
-                                   |
+    table
+    ![](Color_table.PNG)
+    chart       
+    ![](Color_chart.PNG)
 
 **Finding 4:** 
 
