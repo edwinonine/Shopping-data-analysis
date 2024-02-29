@@ -34,7 +34,7 @@ column before                     | column After
 Shows the category column: during review it was discovered that in the category column we had footwear and foot wear using the filter option. We had to use the replace functionality to correct the error. Column before and after.
 column before                     | column After 
 :--------------------------------:|:-----------------------------:
-   ![](customer_id_dirty.PNG)     | ![](customer_id_cleaned.PNG)
+   ![](category_dirty.PNG)        | ![](customer_id_cleaned.PNG)
 
 **Table 3:** 
 
