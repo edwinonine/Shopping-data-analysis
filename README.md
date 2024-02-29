@@ -41,7 +41,7 @@ column before                     | column After
 Shows the color column, during review it was discovered that in the color column we had blank cell wear using the filter option. We had to use the “Not available” to replace the blank cells. Column before and after.
 column before                     | column After                       | column before                   | column after                                       
 :--------------------------------:|:----------------------------------:|:------------------------------:|:---------------------------------:
-![](color_bank.PNG)               |![](color_leaned.PNG)               |  ![](Color_wrong_spelling.PNG)   | |![](color_right_spelling.PNG)
+![](color_bank.PNG)               |![](color_leaned.PNG)               |  ![](Color_wrong_spelling.PNG) | ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/color_right_spelling.PNG)
                      
  
 
