@@ -77,15 +77,44 @@ The minimum purchased item cost was $20. However, we further categorize the mini
 
 **Finding 2:**
 
-figure 1: we had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
+**figure 1:** we had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
+
+     table                         |          chart
+ :--------------------------------:| :--------------------------------:
+                                   |
 
 
+**Findings 3:** 
+
+The screenshot and the chart show the findings, it was discovered that customers preference was the olive color, which ranked as highest from other colors with 176 colors demanded. Silver and yellow ranked second and third respectively with a total of 173 and 172 based on demand
+
+    table                          |         chart 
+ :--------------------------------:| :--------------------------------:
+                                   |
+
+**Finding 4:** 
+
+from the findings we had more location, however we had to stream it down to top 10 to give us a deeper insight of what the dataset is all about. Its was discovered that Montana ranked highest with 96 based on item purchased from in terms of performance by location while Maryland ranked lowest with 86
+
+  chart                            |          chart 
+ :--------------------------------:| :--------------------------------:
+                                   |
+
+**Findings 5:**  
+
+from the findings, during the first quarter business took place within the four seasonal periods within the year. From the screenshot and pie chart below, it was discovered that during spring more orders were made with a total order of 1000 having a 26% of the whole which ranked highest, while fall and winter ranked second with 25% of the total number of orders made. Moreover, during summer lesser orders were made with a total order of 955 having a 24%. The marketing team should focus their marketing strategies towards springs.
+
+  Table                            |          chart
+ :--------------------------------:| :--------------------------------:
+                                   |
 
 
+## ACTION AND RECOMMENDATION
 
-
-
-
+1. From findings Its was discovered that consumers preference and choices were based on category clothing as a factor which informed their purchase of blouse. This purchase amount to 3849 purchases. The marketing team should focus on clothing category.
+2. The marketing team should focus their attention on Montana since it ranked highest with 96 based on item purchased from in terms of performance by location while Maryland ranked lowest with 86. This could help them put in more effort in ensuring they surpass the current demand.
+3. From the findings, it was discovered that customers preference was the olive color, which ranked as highest from other colors with 176 colors demanded. Silver and yellow ranked second and third respectively with a total of 173 and 172 based on demand. The marketing team should focus on the production of olive colors.
+4. In conclusion, Marketing and advertising campaigns should there be focused on the production of the blouse with colors and location as a factor to be considered.
 
 
 
