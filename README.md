@@ -111,6 +111,9 @@ from the findings, during the first quarter business took place within the four 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/seasonality_table.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/seasonailty_chart.PNG)
 
+##DASHBOARD
+![]()
+
 ## ACTION AND RECOMMENDATION
 
 1. From findings Its was discovered that consumers preference and choices were based on category clothing as a factor which informed their purchase of blouse. This purchase amount to 3849 purchases. The marketing team should focus on clothing category.
