@@ -113,7 +113,7 @@ from the findings, during the first quarter business took place within the four 
 
 
 ## DASHBOARD
-![]([dashboard.png](https://github.com/edwinonine/Shopping-data-analysis/blob/main/dashboard.PNG))
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/dashboard.PNG)
 
 ## ACTION AND RECOMMENDATION
 
