@@ -111,8 +111,9 @@ from the findings, during the first quarter business took place within the four 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/seasonality_table.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/seasonailty_chart.PNG)
 
-##DASHBOARD
-![]()
+
+## DASHBOARD
+![](dashboard.png)
 
 ## ACTION AND RECOMMENDATION
 
