@@ -23,6 +23,7 @@ In ensuring quality and reliability of the dataset. Columns were checked for dup
 6. Splitting cells
 7. Use of formulas/functions
 8. Cell referencing
+   
 ## CLEANING THE DATA
 After reviewing the dataset, it was discovered that the dataset has blank cells, incomplete data, improper formatting and inconsistencies in certain columns.
 Customer column, has an incomplete and missing values within the column. This was identified using filter option to identify the issue.
@@ -87,7 +88,7 @@ The minimum purchased item cost was $20. However, we further categorize the mini
 
 **Figure 1:** 
 
-We had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
+We had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse,jewery, and pants turned out to be the top performing product with a total 171 orders respectively while sunglasses, coat and belt ranked as the lowest product performance based on order. 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformtbl.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformchart.PNG)
@@ -125,7 +126,11 @@ From the findings after much investigation, we had to use the category column to
 
 **Findings 7:**
 In digging deep for more insight we had to group the customer age into different age bands. we had to group custmers into six (6) different age bands are as follows: 18-27, 28-37, 38-47, 48-57, 58-67, 68-77.
-from the finding it was discovered that customers between the ages of 48-57 has the highest order of 767 while customers between the ages of 28-37 ranked second with a total orader of 724 and the lowest age band with the lowest order are those between 68-77 with a total of 68 232
+from the finding it was discovered that customers between the ages of 48-57 has the highest order of 767 while customers between the ages of 28-37 ranked second with a total orader of 724 and the lowest age band with the lowest order are those between 68-77 with a total of 68 232.
+
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Agetbl.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Agechart.PNG)
+
 ## DASHBOARD 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/new_dashboard.PNG)
 
