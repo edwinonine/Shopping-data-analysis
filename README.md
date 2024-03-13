@@ -6,6 +6,9 @@ The marketing department aims to launch a campaign in the second quarter of 2024
 1. Product performance 
 2. Changes in customers' choice of color
 3. Location, and seasonality patterns in relation to orders.
+4. category performance based on order
+5. customer order based on age
+   
 ## SKILL DEMONSTRATED:
 In analyzing the dataset, I applied certain skills in analyzing and deriving insight. These skills include carrying out descriptive analysis, pivoting to summarize the dataset, data cleaning/transformation and statistics.
 ## DATA SOURCING:
@@ -120,9 +123,9 @@ From the findings after much investigation, we had to use the category column to
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorychart.PNG)
 
 
-**Findings 6:**
-In digging deep for more insight
-
+**Findings 7:**
+In digging deep for more insight we had to group the customer age into different age bands. we had to group custmers into six (6) different age bands are as follows: 18-27, 28-37, 38-47, 48-57, 58-67, 68-77.
+from the finding it was discovered that customers between the ages of 48-57 has the highest order of 767 while customers between the ages of 28-37 ranked second with a total orader of 724 and the lowest age band with the lowest order are those between 68-77 with a total of 68 232
 ## DASHBOARD 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/new_dashboard.PNG)
 
