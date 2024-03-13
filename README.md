@@ -119,6 +119,10 @@ From the findings after much investigation, we had to use the category column to
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorytbl.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorychart.PNG)
 
+
+**Findings 6:**
+In digging deep for more insight
+
 ## DASHBOARD 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/new_dashboard.PNG)
 
