@@ -82,12 +82,12 @@ The minimum purchased item cost was $20. However, we further categorize the mini
 
 **Finding 2:**
 
-**figure 1:** 
+**Figure 1:** 
 
-we had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
+We had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse turned out to be the top performing product with revenue of $10410 while dress and shirt came up as second and third. Furthermore, the blouse is from the clothing category department.
 
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/product_performance_table.PNG)
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/product_performance_chart.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformtbl.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformchart.PNG)
       
   
 
@@ -96,24 +96,31 @@ we had to look into the product performance using pivot to summarize the dataset
 
 The screenshot and the chart show the findings, it was discovered that customers preference was the olive color, which ranked as highest from other colors with 176 colors demanded. Silver and yellow ranked second and third respectively with a total of 173 and 172 based on demand
 
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Color_table.PNG)
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Color_chart.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_colortbl.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New-colorchartPNG.PNG)
+
 **Finding 4:** 
 
-from the findings we had more location, however we had to stream it down to top 10 to give us a deeper insight of what the dataset is all about. Its was discovered that Montana ranked highest with 96 based on item purchased from in terms of performance by location while Maryland ranked lowest with 86
+From the findings we had more location, however we had to stream it down to top 10 to give us a deeper insight of what the dataset is all about. Its was discovered that Montana ranked highest with 96 based on item purchased from in terms of performance by location while Maryland ranked lowest with 86
 
- ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Location_chart.PNG)                               
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_locationtbl.PNG)   
+ ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_locationchart.PNG) 
 
 **Findings 5:**  
 
-from the findings, during the first quarter business took place within the four seasonal periods within the year. From the screenshot and pie chart below, it was discovered that during spring more orders were made with a total order of 1000 having a 26% of the whole which ranked highest, while fall and winter ranked second with 25% of the total number of orders made. Moreover, during summer lesser orders were made with a total order of 955 having a 24%. The marketing team should focus their marketing strategies towards springs.
+From the findings, during the first quarter business took place within the four seasonal periods within the year. From the screenshot and pie chart below, it was discovered that during spring more orders were made with a total order of 1000 having a 26% of the whole which ranked highest, while fall and winter ranked second with 25% of the total number of orders made. Moreover, during summer lesser orders were made with a total order of 955 having a 24%. The marketing team should focus their marketing strategies towards springs.
 
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/seasonality_table.PNG)
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/seasonailty_chart.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Seasontble.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_seasonchartPNG.PNG)
 
+**Findings 6:**
+From the findings after much investigation, we had to use the category column to determine which category customers favour in the current quarter . The business only focuses on four (4) different categories which are outwear, footwear, accessories and clothing. the clothing ranked highest having 45% of the cuurent market share, while accessories ranked second with 32% of the current market share with footear and outwaer coming third and fourth with 15% and 7% respectively of the business market share.
 
-## DASHBOARD
-![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/dashboard.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorytbl.PNG)
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorychart.PNG)
+
+## DASHBOARD 
+![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/new_dashboard.PNG)
 
 ## ACTION AND RECOMMENDATION
 
