@@ -86,39 +86,43 @@ The minimum purchased item cost was $20. However, we further categorize the mini
 
 **Finding 2:**
 
-**Figure 1:** 
-
-We had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse,jewery, and pants turned out to be the top performing product with a total 171 orders respectively while sunglasses, coat and belt ranked as the lowest product performance based on order. 
+We had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse,jewery, and pants turned out to be the top performing product with a total 171 orders respectively while sunglasses, coat and belt ranked as the lowest product performance based on order.
+**Figure 2:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformtbl.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformchart.PNG)
       
   
-
-
 **Findings 3:** 
 
-The screenshot and the chart show the findings, it was discovered that customers preference was the olive color, which ranked as highest from other colors with 176 colors demanded. Silver and yellow ranked second and third respectively with a total of 173 and 172 based on demand
+
+The screenshot and the chart show the findings, it was discovered that customers preference was the olive color, which ranked as highest from other colors with 176 colors demanded. Silver and yellow ranked second and third respectively with a total of 173 and 172 based on demand.
+**Figure 3:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_colortbl.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New-colorchartPNG.PNG)
 
 **Finding 4:** 
 
-From the findings we had more location, however we had to stream it down to top 10 to give us a deeper insight of what the dataset is all about. Its was discovered that Montana ranked highest with 96 based on item purchased from in terms of performance by location while Maryland ranked lowest with 86
+
+From the findings we had more location, however we had to stream it down to top 10 to give us a deeper insight of what the dataset is all about. Its was discovered that Montana ranked highest with 96 based on item purchased from in terms of performance by location while Maryland ranked lowest with 86.
+**Figure 4:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_locationtbl.PNG)   
  ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_locationchart.PNG) 
 
 **Findings 5:**  
 
+
 From the findings, during the first quarter business took place within the four seasonal periods within the year. From the screenshot and pie chart below, it was discovered that during spring more orders were made with a total order of 1000 having a 26% of the whole which ranked highest, while fall and winter ranked second with 25% of the total number of orders made. Moreover, during summer lesser orders were made with a total order of 955 having a 24%. The marketing team should focus their marketing strategies towards springs.
+**Figure 5:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Seasontble.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_seasonchartPNG.PNG)
 
 **Findings 6:**
 From the findings after much investigation, we had to use the category column to determine which category customers favour in the current quarter . The business only focuses on four (4) different categories which are outwear, footwear, accessories and clothing. the clothing ranked highest having 45% of the cuurent market share, while accessories ranked second with 32% of the current market share with footear and outwaer coming third and fourth with 15% and 7% respectively of the business market share.
+**Figure 6:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorytbl.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_categorychart.PNG)
@@ -127,6 +131,7 @@ From the findings after much investigation, we had to use the category column to
 **Findings 7:**
 In digging deep for more insight we had to group the customer age into different age bands. we had to group custmers into six (6) different age bands are as follows: 18-27, 28-37, 38-47, 48-57, 58-67, 68-77.
 from the finding it was discovered that customers between the ages of 48-57 has the highest order of 767 while customers between the ages of 28-37 ranked second with a total orader of 724 and the lowest age band with the lowest order are those between 68-77 with a total of 68 232.
+**Figure 7:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Agetbl.PNG)
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/Agechart.PNG)
