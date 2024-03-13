@@ -87,6 +87,7 @@ The minimum purchased item cost was $20. However, we further categorize the mini
 **Finding 2:**
 
 We had to look into the product performance using pivot to summarize the dataset by limiting the dataset to only ten (10). It was discovered that blouse,jewery, and pants turned out to be the top performing product with a total 171 orders respectively while sunglasses, coat and belt ranked as the lowest product performance based on order.
+
 **Figure 2:** 
 
 ![](https://github.com/edwinonine/Shopping-data-analysis/blob/main/New_productperformtbl.PNG)
